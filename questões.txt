@@ -1,0 +1,4 @@
+EXERCÍCIOS
+
+Q1. Troque o número sem usar a terceira variável.
+Q2. 
